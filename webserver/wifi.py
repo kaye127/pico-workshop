@@ -12,7 +12,7 @@ def connect():
             return True
 
         print("Connecting to WiFi...")
-        wlan.connect('ALS', 'L0g1c@2023!')
+        wlan.connect('LOGICXP', 'l0g1cxp24!x')
 
         timeout = 10
         for _ in range(timeout):
